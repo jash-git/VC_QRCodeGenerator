@@ -1,0 +1,1 @@
+QRGenerator.exe "http://jashliao.eu" 123.bmp

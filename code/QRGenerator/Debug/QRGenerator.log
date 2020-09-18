@@ -1,0 +1,16 @@
+﻿  split.c
+  rscode.c
+  qrspec.c
+  qrinput.c
+  qrencode.c
+  mqrspec.c
+  mmask.c
+  mask.c
+  bitstream.c
+  正在產生程式碼...
+  stdafx.cpp
+  QRGenerator.cpp
+  正在產生程式碼...
+bitstream.obj : warning LNK4075: 忽略 '/EDITANDCONTINUE'，由於 '/SAFESEH' 規格
+  QRGenerator.vcxproj -> C:\Users\jashliao\Desktop\VC_QRCodeGenerator\code\Debug\QRGenerator.exe
+  QRGenerator.vcxproj -> C:\Users\jashliao\Desktop\VC_QRCodeGenerator\code\Debug\QRGenerator.pdb (Full PDB)
